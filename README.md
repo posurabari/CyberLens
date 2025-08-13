@@ -38,7 +38,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/CyberLens.git
+https://github.com/posurabari/CyberLens
 cd CyberLens
 
 # Install backend dependencies
